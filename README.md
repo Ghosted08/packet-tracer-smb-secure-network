@@ -1,6 +1,5 @@
 # 🔐 SecuBiz – Secure Network Simulation for Small Business
-![SecuBiz Banner](./secubiz-banner.png)
-
+![SecuBiz Banner](./SecuBiz_Banner.png)
 
 This project simulates a **cost-effective, secure multi-branch network** for a fictional small business called **SecuBiz**. Developed using **Cisco Packet Tracer v8.1.0.0722**, it demonstrates best practices in VLAN segmentation, ACL enforcement, static routing, VPN simulation, and wireless security.
 
